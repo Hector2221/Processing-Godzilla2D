@@ -1,7 +1,3 @@
-# Processing-Godzilla
- 2D godzilla project in prosessing 
-
-# Controls
 ## Translation
 - A key. Move left
 - D key. Move right
@@ -10,6 +6,7 @@
 ## Rotation
 - R key. Rotate left
 - E key. Rotate right
+- Q Key.  Ray
 
 ![alt text](img-proyect.jpg)
 
